@@ -23,7 +23,7 @@ Dün çalıştığımız projedeki görevlere `son teslim tarihi (deadline)` ekl
 - `date-fns` kütüphanesinin dokümantasyon sayfasını ve özellikle `formatDistanceToNow` ve `differenceInDays` fonksiyonlarını inceleyin.
 - [date-fns](https://date-fns.org/docs/Getting-Started#installation) kütüphanesini projeye ekleyin.
 - Task componentı içerisinde kullanılan görev objeleri içerisindeki deadline değerlerini formatDistanceToNow ve differenceInDays fonksiyonları ile kullanmaya çalışın.
-- Deadline değerini istediğiniz formata getirdikten app.css içerisinde bu kısım için hazırlanmış classları bulun ve kullanın.
+- Deadline değerini istediğiniz formata getirdikten sonra app.css içerisinde bu kısım için hazırlanmış classları bulun ve kullanın.
 
 - [tailwindcss](https://tailwindcss.com/) frameworkünün anasayfasını inceleyin ve projenize nasıl ekleyebileceğinizi bulun.
 - [tailwindcss dokümantasyonunda](https://tailwindcss.com/docs/utility-first) yer alan örnek kullanımları inceleyin.
